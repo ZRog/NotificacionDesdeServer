@@ -1,0 +1,25 @@
+mighty-ocean-94874
+
+https://mighty-ocean-94874.herokuapp.com/
+
+https://git.heroku.com/mighty-ocean-94874.git
+
+git add .
+git commit -m "Path /android"
+git push heroku master
+heroku open
+
+git add .
+git commit -m "Path /token-device method POST"
+git push heroku master
+heroku open
+
+git add .
+git commit -m "Conexion Base Datos Firebase"
+git push heroku master
+heroku open
+
+git add .
+git commit -m "Implementando Respuesta a metodo Post"
+git push heroku master
+heroku open
